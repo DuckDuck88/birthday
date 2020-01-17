@@ -14,7 +14,7 @@ var config = {
         "（现在已经超超超漂亮啦）",
         "哦对",
         "还有上次的小蛋糕，快到啦",
-        "    ————爱你的鸭"
+        "    ——爱你的鸭"
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -29,11 +29,11 @@ var config = {
     desc: {
         turn_on: "点我一下哦",
         play: "来点音乐",
-        bannar_coming: "好像不好看",
+        bannar_coming: "灯光~",
         balloons_flying: "缺点东西？",
         cake_fadein: "蛋糕！",
         light_candle: "蜡烛！",
         wish_message: "小天使生日快乐！",
-        story: "A MESSAGE FOR YOU",
+        story: "最后一下~",
     }
 };
